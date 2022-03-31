@@ -7,21 +7,20 @@
 #         i=i+1
 # num()
 
-
-n=int(input("enter the num:-"))
-i=1
-c=1
-while i<=n:
-    
-    # print(c)\
-    i=i+1
-print(c)
-
+# def serious():
+#     n=int(input("enter the num:-"))
+#     i=1
+#     j=1
+#     while i<=n:
+#         print(j,"/",i,"+",end=" ")
+#         i=i+1
+# serious()
 
 
+# def function(a=5,b=5):
+#     c=a+b
+#     print(c)
+# function(15,10)
 
 
 
-
-
-# op-1/1+1/2+1/3+1/4+1/5

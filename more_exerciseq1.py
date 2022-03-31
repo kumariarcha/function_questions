@@ -83,6 +83,74 @@
 #     print(b)
 # multiple()
 
+# def multiple():
+#     def sum(list):
+#         i=0
+#         sum2=0
+#         while i<len(list):
+#             sum2=sum2+list[i]
+#             i=i+1
+#         print(sum)
+#         # return sum2
+#     sum(list=[1,2,3,4,5,6])
+# multiple()
+
+# def add(a,b):
+#     c=a+b
+#     return c
+# def sub(a,b):
+#     d=a-b
+#     print(add(5,5))
+#     return d
+# print(sub(10,5))
+
+
+# def sum():
+#     def fun(a,b):
+#         c=a+b
+#         return c
+#     d=fun(4,5)
+# print(sum())
+    
+
+def sum():
+    def fun(a,b):
+        c=a+b
+        return c
+    d=fun(4,5)
+    
+print(sum())
+
+# def sum():
+#     def sum1(a,b):
+#         c=a+b
+#         return c
+#     print(sum1(4,5))
+# sum()
+
+# a=5
+# print(a)
+# print(5)
+
+
+  
+# def num():
+#     def num1():
+#         print("its num1")
+#     print("it is num")
+#     num1()
+# num()
+
+    
+    
+
+
+
+
+
+
+
+
 
 
 
