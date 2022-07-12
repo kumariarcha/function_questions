@@ -61,8 +61,6 @@
 # big()
 
 
-
-
 # words = "navgurukul is great"
 # counter = 0
 # while counter < len(words):
@@ -70,20 +68,20 @@
 #     counter=counter+1
 
 
-def string():
-    sentence = "NavGurukul is an alternative to higher education reducing the barriers of current formal education system"
-    i=0
-    list=[]
-    str2=" "
-    while i<len(sentence):
-        if sentence[i]==" ":
-            list.append(str2)
-            str2=""
-            i=i+1
-            continue
-        else:
-            str2=str2+sentence[i]
-        i=i+1
-    list.append(str2)
-    print(list)
-string()
+# def string():
+#     sentence = "NavGurukul is an alternative to higher education reducing the barriers of current formal education system"
+#     i=0
+#     list=[]
+#     str2=" "
+#     while i<len(sentence):
+#         if sentence[i]==" ":
+#             list.append(str2)
+#             str2=""
+#             i=i+1
+#             continue
+#         else:
+#             str2=str2+sentence[i]
+#         i=i+1
+#     list.append(str2)
+#     print(list)
+# string()

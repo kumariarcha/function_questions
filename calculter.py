@@ -37,4 +37,4 @@ def main(n,num,num1):
 n=int(input("Enter the numbers:-"))
 num=int(input("Enter the numbers:-"))
 num1=(input("Enter the opertoras:-"))
-main(n,num,num1)
+main(n,num,num1) 

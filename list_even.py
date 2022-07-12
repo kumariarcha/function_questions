@@ -5,8 +5,6 @@ def even():
         l.append(i)
         i=i+1
     return l
-# a=even()
-# print(a)
 def main():
     a=even()
     j=0
